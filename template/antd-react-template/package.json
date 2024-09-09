@@ -1,5 +1,5 @@
 {
-  "name": "{{ name }}",
+  "name": "ant-react",
   "version": "{{ version }}",
   "private": true,
   "scripts": {
